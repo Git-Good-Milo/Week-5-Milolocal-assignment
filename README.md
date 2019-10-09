@@ -2,6 +2,7 @@
 
 make sure you exit the box before you do any vagrant installs or updates
 
+
 # Tasks
 ## Task1
 complete the readme file on what you've learnt on:
@@ -23,3 +24,16 @@ complete the readme file on what you've learnt on:
 - ngix
 - nodejs
 - you can access it via: yourname.local
+
+
+### Things to ignore
+- .vagrant/
+- *.log
+
+### Creating a Vagrant
+
+### installing sw
+
+### Installing plugins
+
+vagrant plugin install vagrant-hostsupdater
